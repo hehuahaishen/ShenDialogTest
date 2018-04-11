@@ -1,0 +1,2 @@
+include ':app', ':ShenDialog'
+project(':ShenDialog').projectDir = new File('libraries/ShenDialog')

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="brown">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#f529b75d</color>
+    <color name="orange">#F57C00</color>
+    <color name="blue">#4c56cc</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="border">#C7C7C7</color>
+
+    <color name="gray">#C7C7C7</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#0e000000</color>
+
+    <color name="shen_sky_blue">#dbeefb</color>
+
+    <color name="orange1">#ffbc77</color>
+    <color name="orange2">#fadbbb</color>
+
+    <color name="button_text_color">#ffffff</color>
+
+
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="orange_btn_bg_color">#ffbc77</color>
+    <color name="orange_btn_bg_pressed_color">#F57C00</color>
+
+</resources>
